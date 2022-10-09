@@ -28,7 +28,7 @@ class DrivableTrader extends Trader<Drivable> {
         super(inventory, wishlist, money);
     }
     /**
-     * Construct a DomesticatableTrader, giving them the
+     * Construct a DrivableTrader, giving them the
      * given money and an empty wishlist and inventory.
      *
      * @param money     The Trader's money
